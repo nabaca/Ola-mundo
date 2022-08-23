@@ -1,7 +1,7 @@
 # Olá mundo
 Repositorio
 
-Teste repositóri
+Teste repositório.
 
-Alterad  direto no site.
+Alteração direto no site.
  
